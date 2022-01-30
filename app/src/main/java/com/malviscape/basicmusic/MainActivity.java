@@ -1,15 +1,8 @@
 package com.malviscape.basicmusic;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.loader.content.CursorLoader;
-
-import android.content.Context;
-import android.content.Intent;
-import android.database.Cursor;
 import android.media.MediaPlayer;
-import android.net.Uri;
 import android.os.Bundle;
-import android.provider.MediaStore;
 import android.widget.ImageView;
 import android.widget.TextView;
 
